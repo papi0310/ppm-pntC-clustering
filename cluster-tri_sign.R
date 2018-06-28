@@ -1,3 +1,4 @@
+######### All credits given to Dr. Gabriel Moreno-Hagelsieb for writing this script
 ######### This script will produce every file used for di-nucleotide
 ######### signatures, including transforming the distance file from
 ######### a "genome1, genome2, distance" format into a matrix proper,
